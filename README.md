@@ -25,4 +25,4 @@ This project includes a **coffee list** and a **cart system**, focusing only on 
 ### Installation
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/coffee_app_flutter_ui.git
+   git clone https://github.com/Adarsh-Mudamparambath/coffee_app_flutter_ui.git
